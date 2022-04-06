@@ -3,6 +3,8 @@ Java Documentation located in dist/javadoc
 Command for encrypting: java AES e [-length] [-mode] keyFile inputFile
 Command for decryption: java AES d [-length] [-mode] keyFile encryptedinputFile
 
+C:\Users\eilebedev\IdeaProjects\Advanced-Encryption-Standard-Algorithm\src\inputFile.txt
+
 -length is an optional argument which denotes the keysize that the user intends to use for the AES cipher (128 or 256).
 -mode is an optional argument which denotes the mode of operation which will be used for the AES cipher (ECB or CBC).
 
